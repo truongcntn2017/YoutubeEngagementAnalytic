@@ -26,6 +26,11 @@
 | level\_channel | Level subscriptions of channel|
 | category\_channel | Category of channel |
 | label | Level engagment of video|
+| day_upload | Day uploading of video|
+| month_upload | Month uploading of video|
+| year_upload | Year uploading of video|
+
+
 
 
 ## Notebook
