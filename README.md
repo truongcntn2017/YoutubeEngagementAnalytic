@@ -29,7 +29,8 @@
 | day_upload | Day uploading of video|
 | month_upload | Month uploading of video|
 | year_upload | Year uploading of video|
-
+| duration | Duration of video (minutes)|
+| length_title | Length of title (number of words)|
 
 
 
