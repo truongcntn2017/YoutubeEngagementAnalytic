@@ -22,16 +22,18 @@
 | comment\_rate     | Metric of video engagement |
 | q\_score     | Metric of video engagement |
 | num\_unique_users     | Metric of video engagement |
+| duration | Duration of video (minutes)|
+| day_upload | Day uploading of video|
+| month_upload | Month uploading of video|
+| year_upload | Year uploading of video|
+| title | Title of video|
+| title_length | Length of title (number of words)|
+| transcript | Transcript of video|
+| transcript_length | Length of transcript (number of words)|
 | channel\_id | Id of channel |
 | level\_channel | Level subscriptions of channel|
 | category\_channel | Category of channel |
 | label | Level engagment of video|
-| day_upload | Day uploading of video|
-| month_upload | Month uploading of video|
-| year_upload | Year uploading of video|
-| duration | Duration of video (minutes)|
-| length_title | Length of title (number of words)|
-
 
 
 ## Notebook
