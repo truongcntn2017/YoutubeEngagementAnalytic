@@ -55,8 +55,8 @@
 | year_upload |  0 %|
 | title |  0 % |
 | title_length |  0 %|
-| transcript | 70.4 %|
-| transcript_length | 70.4 %|
+| transcript | 70.04 %|
+| transcript_length | 70.04 %|
 | channel\_id | 0 %|
 | level\_channel | 0 % |
 | category\_channel | 0 % |
