@@ -4,7 +4,7 @@
 
 # Table of Contents
 1. [Meta data](#Metadata)
-2. [Missing rate][#MissingRate]
+2. [Missing rate](#MissingRate)
 3. [Notebook](#Notebook)
 4. [Data](#Data)
 
