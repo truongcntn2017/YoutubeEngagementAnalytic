@@ -7,7 +7,7 @@
 2. [Missing rate](#MissingRate)
 3. [Notebook](#Notebook)
 4. [Data](#Data)
-
+5. [Dashboard](#Dashboard)
 
 ## Metadata
 
@@ -74,3 +74,7 @@ In the notebook has visualized the data for everyone to analyze and verify the d
 * test.csv: test set of videos
 * train_transcript.csv: train set of video transcipts
 * test_transcript.csv: test set of video transcipts
+
+## Dashboard
+
+[Dashboard](https://upbeat-tereshkova-3d48f5.netlify.app/#/)
