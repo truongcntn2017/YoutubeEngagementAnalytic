@@ -1,6 +1,6 @@
-# YoutubeEngagementAnalytic
+# EnTube: A dataset for Youtube video engagement analytics
 
-  Youtube, the largest online video-sharing platform today, has provided a place for content creators to share information and earn extra income. Anticipating whether a video will be engaged by viewers or not is an essential factor in helping video creators improve video content and quality before publishing. To facilitate this task, we build an annotated dataset of 4961 videos collected from 20 Youtube channels in Vietnam. We evaluate a number of metrics for measuring video engagement to propose a novel measure which determines the engagement of a video via its likeness and popularity: Q score (i.e., showing likeness) and the number of users in liked comments (i.e., showing popularity). Using our proposed measure, we annotate videos with three levels of engagement including high, medium, and low. From the supervised dataset, we constructed a multi-channel model to infer the degree of engagement based on  the content of a Youtube video such as title, audio, thumbnail, frame, and transcript. We believe our dataset and metric to be useful for engagement analysis as well as studies on social media content.
+   Youtube, one of the largest online video-sharing platforms today, has provided a place for content creators to share information and earn extra income. Anticipating whether a video will be engaged by viewers or not is an essential factor in helping video creators improve video content and quality before publishing. To facilitate this task, we build an annotated dataset of 4961 videos collected from 20 Youtube channels in Vietnam. We evaluate a number of metrics for measuring video engagement to propose a novel measure which determines the engagement of a video via its likeness and popularity: Q score (i.e., showing likeness) and the number of users in liked comments (i.e., showing popularity). Using our proposed measure, we annotate videos with three levels of engagement including high, medium, and low. From the supervised dataset, we constructed a multi-channel model to infer the degree of engagement based on  the content of a Youtube video such as title, audio, thumbnail, frame, and transcript. We believe our dataset and metric to be useful for engagement analytic as well as studies on social media content.
 
 # Table of Contents
 1. [Meta data](#Metadata)
@@ -78,3 +78,5 @@ In the notebook has visualized the data for everyone to analyze and verify the d
 ## Dashboard
 
 [Dashboard](https://upbeat-tereshkova-3d48f5.netlify.app/#/)
+
+![Dashboard](/image/dashboard.png)
